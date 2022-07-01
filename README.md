@@ -7,4 +7,4 @@ Eurozone Inflation and Real Interest Rates”
 
 These codes are frozen in June 2022 and replicate the results of the paper dated June 6, 2022. All codes have been tested using MATLAB 2022a and 2020a.
 
-Please see ReadMe.doc for detailed explanation on the files.
+Please see ReadMe.docx for detailed explanation on the files.
