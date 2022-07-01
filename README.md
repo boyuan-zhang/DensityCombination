@@ -1,4 +1,4 @@
-# DensityCombination
+# Replication Files for Diebold, Shin and Zhang (2022) 
 
 Readme File for Diebold, Shin and Zhang (2022) 
 “On the Aggregation of Probability Assessments:
